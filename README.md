@@ -1,3 +1,5 @@
+![image](https://github.com/bilalKhProjects/CarProject/assets/75738584/3e64f625-9185-41c6-b2ba-56d979ad567f)
+
 # Car game project 
 
 Ce projet est une simulation de jeu de voiture basique, conçu pour illustrer les principes fondamentaux de la programmation de jeux en utilisant Python. Dans ce jeu, les joueurs pourront contrôler une voiture dans un environnement 2D et essayer de naviguer à travers un parcours parsemé d'obstacles.
